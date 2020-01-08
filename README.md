@@ -1,2 +1,2 @@
-# adc
+# ADC
 Application Design &amp; Coding
