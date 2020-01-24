@@ -1,0 +1,12 @@
+body{
+    background-color: yellow;
+}
+
+iframe {
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.music iframe {
+    border: 1px solid rgb(255, 0, 0);
+}
