@@ -1,5 +1,5 @@
 body{
-    background-color: yellow;
+    background-color: peachpuff;
 }
 
 iframe {
@@ -7,6 +7,16 @@ iframe {
     border-radius: 10px;
 }
 
+.youtube iframe {
+    border: 3px solid red;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+       -moz-box-shadow: 0 10px 6px -6px #777;
+            box-shadow: 0 10px 6px -6px #777;
+}
+
 .music iframe {
-    border: 1px solid black;
+    border: 3px solid green;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+       -moz-box-shadow: 0 10px 6px -6px #777;
+            box-shadow: 0 10px 6px -6px #777;
 }
