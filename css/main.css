@@ -1,5 +1,14 @@
+
 body{
     background-color: peachpuff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.namefirst h1 {
+    font-size: 116px;
+    font-weight: 100;
+    color: blue;
 }
 
 iframe {
@@ -19,4 +28,8 @@ iframe {
     -webkit-box-shadow: 0 10px 6px -6px #777;
        -moz-box-shadow: 0 10px 6px -6px #777;
             box-shadow: 0 10px 6px -6px #777;
+}
+
+img {
+    border-radius: 50%;
 }
