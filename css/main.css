@@ -45,12 +45,15 @@ button {
     color: brown;
     margin-bottom: 8px;
     margin-top: 8px;
+    margin-bottom: 20px;
 }
 
 .subt2 h2 { /* This is Button 2 line */
     color: brown;
     margin-bottom: 8px;
     margin-top: 8px;
+    margin-right: 85px;
+    margin-bottom: 40px;
 }
 
 iframe {
