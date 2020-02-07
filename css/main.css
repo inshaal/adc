@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: brown;
+}
 
 body{
     background-color: peachpuff;
@@ -5,10 +11,46 @@ body{
     font-weight: 400;
 }
 
-.namefirst h1 {
+button {
+    background-color: brown;
+    border: none;
+    color: white;
+    padding: 6px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 400;
+    font-size: 22px;
+  }
+
+.namefirst h1 { /* The Big Name */
     font-size: 116px;
     font-weight: 100;
     color: blue;
+    margin-top: 40px;
+}
+
+.titlenext h2 { /* Subtitle area - IXD deets */
+    font-weight: 400;
+    color: brown;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.hiimg img { /* FOR IMAGE SECTION */
+    margin-bottom: 30px;
+}
+
+.subt1 h2 { /* This is Button 1 line */
+    color: brown;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
+.subt2 h2 { /* This is Button 2 line */
+    color: brown;
+    margin-bottom: 8px;
+    margin-top: 8px;
 }
 
 iframe {
