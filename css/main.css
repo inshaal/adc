@@ -93,3 +93,7 @@ iframe {
 img {
     border-radius: 50%;
 }
+
+.endtext p {
+    text-align: center;
+}
