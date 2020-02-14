@@ -76,11 +76,36 @@ iframe {
     border-radius: 10px;
 }
 
+.featuredtext h1 {
+    font-size: 64px;
+    font-weight: 100;
+    color: blue;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.featuredtext i {
+    font-size: 64px;
+    font-weight: 100;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+}
+
 .youtube iframe {
     border: 3px solid red;
     -webkit-box-shadow: 0 10px 6px -6px #777;
        -moz-box-shadow: 0 10px 6px -6px #777;
             box-shadow: 0 10px 6px -6px #777;
+}
+
+.musictitlebig h1 { 
+    /* The text just before spotify iframes */
+    font-size: 84px;
+    font-weight: 100;
+    color: blue;
+    margin-top: 40px;
+    text-align: center;
 }
 
 .music iframe {
