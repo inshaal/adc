@@ -1,7 +1,8 @@
 * {
     margin: 0;
     padding: 0;
-    /* text-align: center; */
+    /* text-align: center; 
+    gave indiviual containers the code to align themselves */
     color: brown;
 }
 
@@ -12,6 +13,7 @@ body{
 }
 
 button {
+    /* All buttons */
     background-color: brown;
     border: none;
     color: white;
@@ -63,11 +65,13 @@ button {
 }
 
 .likinglist ol {
+    /* List of stuff i like */
     text-align: left;
     margin-left: 520px;
 }
 
 .likinglist h3 {
+    /* List of stuff I like */
     margin-left: 495px;
 }
 
@@ -77,6 +81,7 @@ iframe {
 }
 
 .featuredtext h1 {
+    /* I got featured once text */
     font-size: 54px;
     font-weight: 100;
     color: blue;
@@ -85,6 +90,7 @@ iframe {
 }
 
 .featuredtext i {
+    /* Got featured once text secondary part */
     font-size: 54px;
     font-weight: 400;
     color: whitesmoke;
