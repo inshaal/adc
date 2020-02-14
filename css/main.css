@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    text-align: center;
+    /* text-align: center; */
     color: brown;
 }
 
@@ -28,6 +28,7 @@ button {
     font-weight: 100;
     color: blue;
     margin-top: 40px;
+    text-align: center;
 }
 
 .titlenext h2 { /* Subtitle area - IXD deets */
@@ -35,25 +36,39 @@ button {
     color: brown;
     margin-bottom: 30px;
     margin-top: 30px;
+    text-align: center;
 }
 
 .hiimg img { /* FOR IMAGE SECTION */
     margin-bottom: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; not needed it makes the elipse broader. */
 }
 
 .subt1 h2 { /* This is Button 1 line */
     color: brown;
-    margin-bottom: 8px;
     margin-top: 8px;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .subt2 h2 { /* This is Button 2 line */
     color: brown;
-    margin-bottom: 8px;
     margin-top: 8px;
     margin-right: 85px;
     margin-bottom: 40px;
+    text-align: center;
+}
+
+.likinglist ol {
+    text-align: left;
+    margin-left: 520px;
+}
+
+.likinglist h3 {
+    margin-left: 495px;
 }
 
 iframe {
